@@ -5,9 +5,12 @@ import re
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
-    "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u",
-    "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8",
-    "https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u"
+    "https://gitgud.io/iptv2026tx/star-jump/-/raw/main/link/ott/Movies%20&%20Music/heart.m3u8",
+    "https://gitgud.io/iptv2026tx/star-jump/-/raw/main/link/ott/News/ott-news.m3u8",
+    "https://gitgud.io/iptv2026tx/star-jump/-/raw/main/link/ott/Religion/religion.m3u8",
+    "https://gitgud.io/iptv2026tx/star-jump/-/raw/main/link/ott/diablo.m3u8",
+    "https://gitgud.io/iptv2026tx/star-jump/-/raw/main/link/ott/combo-moj-tvp.m3u8",
+    "https://gitgud.io/iptv2026tx/star-jump/-/raw/main/link/ott/aceray50.m3u8"
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
