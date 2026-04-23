@@ -15,7 +15,7 @@ PLAYLISTS = [
 ]
 
 # EPG URL
-EPG_URL = "https://github.com/lovingazombie/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
+EPG_URL = "https://tinyurl.com/Zom-EPG"
 
 # Output file
 OUTPUT_FILE = "combined_playlist.m3u"
