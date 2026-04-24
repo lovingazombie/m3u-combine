@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://tinyurl.com/Zom-EPG"
-# Generated on 2026-04-24T04:59:07.546102 UTC
+# Generated on 2026-04-24T06:30:21.603123 UTC
 
 #PLAYLIST:x heart
 #EXTGRP:x heart
@@ -5459,7 +5459,7 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/40708.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/40748.ts
 #EXTINF:-1 tvg-id="CNN.International.ca2" tvg-name="CNN International (Canada)" group-title="ENG | News",CNN International (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40747.ts
-#EXTINF:-1 tvg-id="MSNBC.Canada,.Caribbean.and.International.HD.ca2" tvg-name="MSNBC (Canada)" group-title="ENG | News",.Caribbean.and.International.HD.ca2" tvg-name="MSNBC (Canada)" group-title="News",MSNBC (Canada)
+#EXTINF:-1 tvg-id="MSNBC.Canada,.Caribbean.and.International.HD.ca2" tvg-name="MSNBC (Canada)" group-title="ENG | News",.Caribbean.and.International.HD.ca2" tvg-name="MSNBC (Canada)" group-title="ENG | News",.Caribbean.and.International.HD.ca2" tvg-name="MSNBC (Canada)" group-title="News",MSNBC (Canada)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/93125.ts
 #EXTINF:-1 tvg-id="BNN.Bloomberg.ca2" tvg-name="BNN Bloomberg (Canada)" group-title="ENG | News",BNN Bloomberg (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40768.ts
@@ -5901,7 +5901,7 @@ https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
 https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
 #EXTINF:-1 tvg-name="WDWL-DT1 36 (Bayamon PR)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",WDWL-DT1 36 (Bayamon PR)
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
-#EXTINF:-1 tvg-name="WECN-TV Único TV, Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",WECN-TV Único TV, Canal 64 (Puerto Rico)
+#EXTINF:-1 tvg-name="WECN-TV Único TV, Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",WECN-TV Único TV, Canal 64 (Puerto Rico)
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-name="Telemicro (Dominican Republic)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Telemicro (Dominican Republic)
 https://live4.telemicro.com.do/live/telemicrocast_1080p/playlist.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
@@ -6121,7 +6121,7 @@ https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 tvg-name="CDM Internacional" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",CDM Internacional
 https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
-#EXTINF:-1 tvg-name="EBN Televisión, Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",EBN Televisión, Canal 46.1
+#EXTINF:-1 tvg-name="EBN Televisión, Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",EBN Televisión, Canal 46.1
 https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8
 #EXTINF:-1 tvg-name="Faro de Santidad TV" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Faro de Santidad TV
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
@@ -7091,7 +7091,7 @@ https://amg01312-cw-amg01312c18-cw-us-3177.playouts.now.amagi.tv/playlist/amg013
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Just.For.Laughs.Gags.plex" tvg-name="Just for Laughs Gags" group-title="ENG | Entertainment",Just for Laughs Gags
 https://4ba34d83c35d4422aa017937f6891aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LocalNow_JustForLaughsGags/playlist.m3u8
-#EXTINF:-1 tvg-id="plex.tv.Funny.Or.Die,.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="ENG | Entertainment",.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="Entertainment",.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="Entertainment",.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="Entertainment",.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="Entertainment",.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="Entertainment",Funny Or Die, Inc.
+#EXTINF:-1 tvg-id="plex.tv.Funny.Or.Die,.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="ENG | Entertainment",.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="ENG | Entertainment",.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="Entertainment",.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="Entertainment",.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="Entertainment",.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="Entertainment",.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="Entertainment",Funny Or Die, Inc.
 https://funny-or-die-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.FilmRise.Comedy.plex" tvg-name="FilmRise Comedy" group-title="ENG | Entertainment",FilmRise Comedy
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=6W1W8VrxpE83hnx_JscB
@@ -9623,266 +9623,6 @@ https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 https://livecdn.euw1-0005.jwplive.com/live/sites/Yal8cmyO/media/r08fY89I/live.isml/.m3u8?user_id=00uo63wifd34FGAJu697
 #EXTINF:-1 tvg-name="TBN Pacific (Austrailia)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religion (All Lang)",TBN Pacific (Austrailia)
 https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
-
-#GROUP:Series - Paramount+
-#EXTINF:-1 tvg-name="Paramount+ Original info" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Paramount+",Paramount+ Original info
-http://vocotv.pro:80/live/10/12345/324407.ts
-#EXTINF:-1 tvg-name="Paramount+ Original 1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Paramount+",Paramount+ Original 1
-http://vocotv.pro:80/live/10/12345/324406.ts
-#EXTINF:-1 tvg-name="Paramount+ Original 2" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Paramount+",Paramount+ Original 2
-http://vocotv.pro:80/live/10/12345/324405.ts
-#EXTINF:-1 tvg-name="Paramount+ Original 3" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Paramount+",Paramount+ Original 3
-http://vocotv.pro:80/live/10/12345/324404.ts
-#EXTINF:-1 tvg-name="Paramount+ Original 4" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Paramount+",Paramount+ Original 4
-http://vocotv.pro:80/live/10/12345/324403.ts
-#EXTINF:-1 tvg-name="Paramount+ Original 5" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Paramount+",Paramount+ Original 5
-http://vocotv.pro:80/live/10/12345/324402.ts
-#EXTINF:-1 tvg-name="Paramount+ Original 6" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Paramount+",Paramount+ Original 6
-http://vocotv.pro:80/live/10/12345/324401.ts
-#EXTINF:-1 tvg-name="Paramount+ Original 7" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Paramount+",Paramount+ Original 7
-http://vocotv.pro:80/live/10/12345/324400.ts
-#EXTINF:-1 tvg-name="Paramount+ Original 8" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Paramount+",Paramount+ Original 8
-http://vocotv.pro:80/live/10/12345/324399.ts
-#EXTINF:-1 tvg-name="Paramount+ Original 9" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Paramount+",Paramount+ Original 9
-http://vocotv.pro:80/live/10/12345/324398.ts
-#EXTINF:-1 tvg-name="Paramount+ Original 10" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Paramount+",Paramount+ Original 10
-http://vocotv.pro:80/live/10/12345/324397.ts
-
-#GROUP:Series - HBOMax+
-#EXTINF:-1 tvg-name="HBOMax Original info" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - HBOMax+",HBOMax Original info
-http://vocotv.pro:80/live/10/12345/271096.ts
-#EXTINF:-1 tvg-name="HBOMax Original 1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - HBOMax+",HBOMax Original 1
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260285.ts
-#EXTINF:-1 tvg-name="HBOMax Original 2" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - HBOMax+",HBOMax Original 2
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260286.ts
-#EXTINF:-1 tvg-name="HBOMax Original 3" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - HBOMax+",HBOMax Original 3
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260287.ts
-#EXTINF:-1 tvg-name="HBOMax Original 4" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - HBOMax+",HBOMax Original 4
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260288.ts
-#EXTINF:-1 tvg-name="HBOMax Original 5" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - HBOMax+",HBOMax Original 5
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260289.ts
-#EXTINF:-1 tvg-name="HBOMax Original 6" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - HBOMax+",HBOMax Original 6
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260290.ts
-#EXTINF:-1 tvg-name="HBOMax Original 7" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - HBOMax+",HBOMax Original 7
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260291.ts
-#EXTINF:-1 tvg-name="HBOMax Original 8" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - HBOMax+",HBOMax Original 8
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260292.ts
-#EXTINF:-1 tvg-name="HBOMax Original 9" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - HBOMax+",HBOMax Original 9
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260293.ts
-#EXTINF:-1 tvg-name="HBOMax Original 10" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - HBOMax+",HBOMax Original 10
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260294.ts
-#EXTINF:-1 tvg-name="HBOMax Original 11" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - HBOMax+",HBOMax Original 11
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260295.ts
-#EXTINF:-1 tvg-name="HBOMax Original 12" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - HBOMax+",HBOMax Original 12
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260296.ts
-
-#GROUP:Series - Disney+
-#EXTINF:-1 tvg-name="Disney+ Series info" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Disney+",Disney+ Series info
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259553.ts
-#EXTINF:-1 tvg-name="Disney+ Premiere 1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Disney+",Disney+ Premiere 1
-http://nonamevos.com:80/live/4500/4500/1131.ts
-#EXTINF:-1 tvg-name="Disney+ Premiere 2" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Disney+",Disney+ Premiere 2
-http://nonamevos.com:80/live/4500/4500/78449.ts
-#EXTINF:-1 tvg-name="Disney+ Series 1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Disney+",Disney+ Series 1
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259554.ts
-#EXTINF:-1 tvg-name="Disney+ Series 2" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Disney+",Disney+ Series 2
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259555.ts
-#EXTINF:-1 tvg-name="Disney+ Series 3" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Disney+",Disney+ Series 3
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259556.ts
-#EXTINF:-1 tvg-name="Disney+ Series 4" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Disney+",Disney+ Series 4
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259557.ts
-#EXTINF:-1 tvg-name="Disney+ Series 5" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Disney+",Disney+ Series 5
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259558.ts
-#EXTINF:-1 tvg-name="Disney+ Series 6" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Disney+",Disney+ Series 6
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259559.ts
-#EXTINF:-1 tvg-name="Disney+ Series 7" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Disney+",Disney+ Series 7
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259560.ts
-#EXTINF:-1 tvg-name="Disney+ Series 8" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Disney+",Disney+ Series 8
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259561.ts
-#EXTINF:-1 tvg-name="Disney+ Series 9" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Disney+",Disney+ Series 9
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259562.ts
-#EXTINF:-1 tvg-name="Disney+ Series 10" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Disney+",Disney+ Series 10
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259563.ts
-
-#GROUP:Series - Netflix+
-#EXTINF:-1 tvg-name="Netflix Premiere info" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Premiere info
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260263.ts
-#EXTINF:-1 tvg-name="Netflix Premiere 1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Premiere 1
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260264.ts
-#EXTINF:-1 tvg-name="Netflix Premiere 2" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Premiere 2
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260265.ts
-#EXTINF:-1 tvg-name="Netflix Premiere 3" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Premiere 3
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260266.ts
-#EXTINF:-1 tvg-name="Netflix Premiere 4" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Premiere 4
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260267.ts
-#EXTINF:-1 tvg-name="Netflix Premiere 5" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Premiere 5
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260268.ts
-#EXTINF:-1 tvg-name="Netflix Premiere 6" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Premiere 6
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260269.ts
-#EXTINF:-1 tvg-name="Netflix Premiere 7" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Premiere 7
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260270.ts
-#EXTINF:-1 tvg-name="Netflix Premiere 8" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Premiere 8
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260271.ts
-#EXTINF:-1 tvg-name="Netflix Premiere 9" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Premiere 9
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260272.ts
-#EXTINF:-1 tvg-name="Netflix Premiere 10" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Premiere 10
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260273.ts
-#EXTINF:-1 tvg-name="Netflix Series info" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Series info
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260274.ts
-#EXTINF:-1 tvg-name="Netflix Series 1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Series 1
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260275.ts
-#EXTINF:-1 tvg-name="Netflix Series 2" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Series 2
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260276.ts
-#EXTINF:-1 tvg-name="Netflix Series 3" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Series 3
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260277.ts
-#EXTINF:-1 tvg-name="Netflix Series 4" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Series 4
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260278.ts
-#EXTINF:-1 tvg-name="Netflix Series 5" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Series 5
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260279.ts
-#EXTINF:-1 tvg-name="Netflix Series 6" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Series 6
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260280.ts
-#EXTINF:-1 tvg-name="Netflix Series 7" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Series 7
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260281.ts
-#EXTINF:-1 tvg-name="Netflix Series 8" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Series 8
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260282.ts
-#EXTINF:-1 tvg-name="Netflix Series 9" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Series 9
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260283.ts
-#EXTINF:-1 tvg-name="Netflix Series 10" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Netflix+",Netflix Series 10
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260284.ts
-
-#GROUP:Series - PrimeVideo+
-#EXTINF:-1 tvg-name="PrimeVideo Serie info" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - PrimeVideo+",PrimeVideo Serie info
-http://nonamevos.com:80/live/4500/4500/87285.ts
-#EXTINF:-1 tvg-name="PrimeVideo Serie 1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - PrimeVideo+",PrimeVideo Serie 1
-http://nonamevos.com:80/live/4500/4500/110274.ts
-#EXTINF:-1 tvg-name="PrimeVideo Serie 2" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - PrimeVideo+",PrimeVideo Serie 2
-http://nonamevos.com:80/live/4500/4500/21371.ts
-#EXTINF:-1 tvg-name="PrimeVideo Serie 3" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - PrimeVideo+",PrimeVideo Serie 3
-http://nonamevos.com:80/live/4500/4500/87593.ts
-#EXTINF:-1 tvg-name="PrimeVideo Serie 4" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - PrimeVideo+",PrimeVideo Serie 4
-http://nonamevos.com:80/live/4500/4500/84096.ts
-#EXTINF:-1 tvg-name="PrimeVideo Serie 5" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - PrimeVideo+",PrimeVideo Serie 5
-http://nonamevos.com:80/live/4500/4500/23583.ts
-#EXTINF:-1 tvg-name="PrimeVideo Serie 6" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - PrimeVideo+",PrimeVideo Serie 6
-http://nonamevos.com:80/live/4500/4500/99621.ts
-#EXTINF:-1 tvg-name="PrimeVideo Serie 7" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - PrimeVideo+",PrimeVideo Serie 7
-http://nonamevos.com:80/live/4500/4500/14881.ts
-#EXTINF:-1 tvg-name="PrimeVideo Serie 8" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - PrimeVideo+",PrimeVideo Serie 8
-http://nonamevos.com:80/live/4500/4500/23754.ts
-#EXTINF:-1 tvg-name="PrimeVideo Serie 9" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - PrimeVideo+",PrimeVideo Serie 9
-http://nonamevos.com:80/live/4500/4500/27582.ts
-#EXTINF:-1 tvg-name="PrimeVideo Serie 10" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - PrimeVideo+",PrimeVideo Serie 10
-http://nonamevos.com:80/live/4500/4500/13432.ts
-
-#GROUP:Series - Hulu+
-#EXTINF:-1 tvg-name="hulu Originals info" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Hulu+",hulu Originals info
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259542.ts
-#EXTINF:-1 tvg-name="hulu Originals 1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Hulu+",hulu Originals 1
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259543.ts
-#EXTINF:-1 tvg-name="hulu Originals 2" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Hulu+",hulu Originals 2
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259544.ts
-#EXTINF:-1 tvg-name="hulu Originals 3" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Hulu+",hulu Originals 3
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259545.ts
-#EXTINF:-1 tvg-name="hulu Originals 4" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Hulu+",hulu Originals 4
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259546.ts
-#EXTINF:-1 tvg-name="hulu Originals 5" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Hulu+",hulu Originals 5
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259547.ts
-#EXTINF:-1 tvg-name="hulu Originals 6" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Hulu+",hulu Originals 6
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259548.ts
-#EXTINF:-1 tvg-name="hulu Originals 7" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Hulu+",hulu Originals 7
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259549.ts
-#EXTINF:-1 tvg-name="hulu Originals 8" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Hulu+",hulu Originals 8
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259550.ts
-#EXTINF:-1 tvg-name="hulu Originals 9" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Hulu+",hulu Originals 9
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259551.ts
-#EXTINF:-1 tvg-name="hulu Originals 10" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Hulu+",hulu Originals 10
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259552.ts
-
-#GROUP:Series - Apple TV+
-#EXTINF:-1 tvg-name="Apple TV+ Series info" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Apple TV+",Apple TV+ Series info
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259532.ts
-#EXTINF:-1 tvg-name="Apple TV+ Series 1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Apple TV+",Apple TV+ Series 1
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259533.ts
-#EXTINF:-1 tvg-name="Apple TV+ Series 2" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Apple TV+",Apple TV+ Series 2
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259534.ts
-#EXTINF:-1 tvg-name="Apple TV+ Series 3" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Apple TV+",Apple TV+ Series 3
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259535.ts
-#EXTINF:-1 tvg-name="Apple TV+ Series 4" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Apple TV+",Apple TV+ Series 4
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259536.ts
-#EXTINF:-1 tvg-name="Apple TV+ Series 5" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Apple TV+",Apple TV+ Series 5
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259537.ts
-#EXTINF:-1 tvg-name="Apple TV+ Series 6" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Apple TV+",Apple TV+ Series 6
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259538.ts
-#EXTINF:-1 tvg-name="Apple TV+ Series 7" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Apple TV+",Apple TV+ Series 7
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259539.ts
-#EXTINF:-1 tvg-name="Apple TV+ Series 8" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Apple TV+",Apple TV+ Series 8
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259540.ts
-#EXTINF:-1 tvg-name="Apple TV+ Series 9" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Apple TV+",Apple TV+ Series 9
-http://hardcoremedia.xyz:80/live/BG992263/38692743/259541.ts
-
-#GROUP:Series - Sky Store+
-#EXTINF:-1 tvg-name="Sky Store info" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store info
-http://nonamevos.com:80/live/4500/4500/63108.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 1
-http://nonamevos.com:80/live/4500/4500/100475.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 2" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 2
-http://nonamevos.com:80/live/4500/4500/6824.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 3" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 3
-http://nonamevos.com:80/live/4500/4500/111522.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 4" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 4
-http://nonamevos.com:80/live/4500/4500/86874.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 5" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 5
-http://nonamevos.com:80/live/4500/4500/106824.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 6" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 6
-http://nonamevos.com:80/live/4500/4500/35697.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 7" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 7
-http://nonamevos.com:80/live/4500/4500/37842.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 8" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 8
-http://nonamevos.com:80/live/4500/4500/12024.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 9" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 9
-http://nonamevos.com:80/live/4500/4500/78241.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 10" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 10
-http://nonamevos.com:80/live/4500/4500/53800.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 11" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 11
-http://nonamevos.com:80/live/4500/4500/56475.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 12" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 12
-http://nonamevos.com:80/live/4500/4500/60839.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 13" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 13
-http://nonamevos.com:80/live/4500/4500/13486.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 14" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 14
-http://nonamevos.com:80/live/4500/4500/29031.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 15" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 15
-http://nonamevos.com:80/live/4500/4500/57410.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 16" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 16
-http://nonamevos.com:80/live/4500/4500/85496.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 17" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 17
-http://nonamevos.com:80/live/4500/4500/61762.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 18" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 18
-http://nonamevos.com:80/live/4500/4500/78364.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 19" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 19
-http://nonamevos.com:80/live/4500/4500/15530.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 20" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 20
-http://nonamevos.com:80/live/4500/4500/41157.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 21" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 21
-http://nonamevos.com:80/live/4500/4500/106924.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 22" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 22
-http://nonamevos.com:80/live/4500/4500/61752.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 23" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 23
-http://nonamevos.com:80/live/4500/4500/112532.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 24" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 24
-http://nonamevos.com:80/live/4500/4500/111627.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 25" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 25
-http://nonamevos.com:80/live/4500/4500/19065.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 26" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 26
-http://nonamevos.com:80/live/4500/4500/72138.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 27" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 27
-http://nonamevos.com:80/live/4500/4500/19973.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 28" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 28
-http://nonamevos.com:80/live/4500/4500/97421.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 29" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 29
-http://nonamevos.com:80/live/4500/4500/3730.ts
-#EXTINF:-1 tvg-name="Sky Store Premiere 30" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Series - Sky Store+",Sky Store Premiere 30
-http://nonamevos.com:80/live/4500/4500/100385.ts
 
 
 ==================================================
