@@ -5,6 +5,7 @@ import re
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
+    "https://gitgud.io/iptv2026tx/star-jump/-/raw/main/link/ott/247/247.m3u8", 
     "https://gitgud.io/iptv2026tx/star-jump/-/raw/main/link/ott/Movies%20&%20Music/heart.m3u8",
     "https://gitgud.io/iptv2026tx/star-jump/-/raw/main/link/ott/News/ott-news.m3u8",
     "https://gitgud.io/iptv2026tx/star-jump/-/raw/main/link/ott/Religion/religion.m3u8",
